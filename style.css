@@ -1,0 +1,10 @@
+:root {
+    --color-1 : black ;
+}
+
+#navbar {
+    height: 15vh;
+}
+#lower-body {
+    height: 85vh;
+}
